@@ -6,12 +6,8 @@
 }
 
 .main2img {
-	width: 22%;
-	height: 5%;
-	float: left;
-	margin: 1.5%;
-	margin-bottom: 10%;
-	padding-bottom: 10%;
+	width:60%;
+	height: 30%;
 }
 
 
@@ -25,19 +21,10 @@
 	
 }
 
-.screenshots {
-	width: 11%;
-	height: 10%;
-	margin-left: 6%;
-	margin-right: 6.5%;
-	margin-bottom: 3%;
-	border: 4px solid #003300;
-
-}
 
 .logos {
 	width: 20%;
-	margin-left: 12%;
+	margin-left: 10%;
 	
 }
 
@@ -54,10 +41,27 @@
 }
 
 
-.lang-butt {
+.lang-butt-html {
 	margin-top: 2%;
 	margin-left: 21.8%;
+	color: #ff0000;
+
 }
+
+.lang-butt-css {
+	margin-top: 2%;
+	margin-left: 21.8%;
+	color: #0066ff;
+
+}
+
+.lang-butt-js {
+	margin-top: 2%;
+	margin-left: 21.8%;
+	color: #ffff00;
+
+}
+
 
 .butt-div {
 	width: 90%;
