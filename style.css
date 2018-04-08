@@ -10,10 +10,6 @@ body {
   height: 100px;
 }
 
-a:hover {
-  color: hotpink;
-}
-
 .heading {
   color: #000000;
   text-align: center;
@@ -78,19 +74,19 @@ a:hover {
 .htmllogo {
   height: 100px;
   width: 100px;
-  margin: 20px 0 20px 0;
+  margin: 20px 0 10px 0;
 }
 
 .css3logo {
   height: 100px;
   width: 100px;
-  margin: 20px 0 20px 0;
+  margin: 20px 0 10px 0;
 }
 
 .javalogo {
   height: 100px;
   width: 100px;
-  margin: 20px 0 20px 0;
+  margin: 20px 0 10px 0;
 }
 
 .achiv {
